@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a3e680b-4c3e-4ed7-8390-bc0d89205daa" name="更改" comment="BUPT信通院研究生Java课程代码" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$USER_HOME$/apache-maven-3.8.8" />
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.8.8/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="34fgwqwoIUgyT3kY4YmFfeZt7XY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "73502c4e",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/Apple/IdeaProjects/Java_Class/2025.9.23/BullsAndCows/src/Database2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.AccountTest.executor": "Run",
+    "应用程序.BitOutputStreamTest.executor": "Run",
+    "应用程序.BitoutputStreamTest.executor": "Run",
+    "应用程序.ConnectFour.executor": "Run",
+    "应用程序.CountKeywords.executor": "Run",
+    "应用程序.DecoratorDemo.executor": "Run",
+    "应用程序.ExceptionPractice.executor": "Run",
+    "应用程序.KindleBookManagerApp.executor": "Run",
+    "应用程序.Main.executor": "Run",
+    "应用程序.MorseCode.executor": "Run",
+    "应用程序.Number.executor": "Run",
+    "应用程序.QueryDB.executor": "Run",
+    "应用程序.SetUpDB.executor": "Run",
+    "应用程序.StringQuery.executor": "Run",
+    "应用程序.TestRationalClass.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BullsAndCows/src/Database2" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/BullsAndCows/src/Database" />
+      <recent name="$PROJECT_DIR$/BullsAndCows/src/CountKeyWords" />
+      <recent name="$PROJECT_DIR$/out/production/2025.9.23/Account" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Database2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.ConnectFour">
+    <configuration name="ConnectFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConnectFour" />
+      <module name="2025.9.23" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Animal.Main" />
+      <module name="2025.9.23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Animal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Main" />
+        <item itemvalue="应用程序.ConnectFour" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="6a3e680b-4c3e-4ed7-8390-bc0d89205daa" name="更改" comment="" />
+      <created>1761610281832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761610281832</updated>
+      <workItem from="1761610284166" duration="1233000" />
+      <workItem from="1761611528218" duration="3168000" />
+      <workItem from="1762214979006" duration="2932000" />
+      <workItem from="1762820037603" duration="3466000" />
+      <workItem from="1763424589708" duration="6115000" />
+      <workItem from="1764029478672" duration="3070000" />
+      <workItem from="1764634620345" duration="2571000" />
+      <workItem from="1764637209925" duration="2135000" />
+      <workItem from="1764749069878" duration="4096000" />
+      <workItem from="1765239240481" duration="4307000" />
+      <workItem from="1765843708707" duration="6691000" />
+      <workItem from="1766449359898" duration="16000" />
+      <workItem from="1766449381826" duration="183000" />
+      <workItem from="1766449585723" duration="2491000" />
+      <workItem from="1766989471369" duration="4458000" />
+      <workItem from="1767945014033" duration="3348000" />
+    </task>
+    <task id="LOCAL-00001" summary="BUPT信通院研究生Java课程代码">
+      <option name="closed" value="true" />
+      <created>1767945588537</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767945588537</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BUPT信通院研究生Java课程代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="BUPT信通院研究生Java课程代码" />
+  </component>
+</project>
