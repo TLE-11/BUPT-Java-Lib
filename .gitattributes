@@ -1,0 +1,2 @@
+# Exclude generated Javadoc from GitHub language stats
+*.html linguist-documentation
